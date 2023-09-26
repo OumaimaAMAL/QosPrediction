@@ -32,7 +32,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
 
-git clone https://github.com//.git
+git clone https://github.com/OumaimaAMAL/QosPrediction.git
 
 
 2. **Navigate the Folders:** Explore each of the three folders to understand the project's evolution, from initial ideas to the latest updates.
